@@ -76,10 +76,10 @@
 									</div>
 									<div class="col-xs-8 text-right menu-1"><br><br>
 										<ul>
-											<li class="active"><a href="index.html">Home</a></li>
-											<li><a href="about.html">About</a></li>
-											<li><a href="portfolio.html">Portfolio</a></li>
-											<li><a href="contact.html">Contact</a></li>
+											<li class="active"><a href="/">Home</a></li>
+											<li><a href="/about">About</a></li>
+											<li><a href="/Portfolio">Portfolio</a></li>
+											<li><a href="/contact">Contact</a></li>
 										</ul>
 									</div>
 								</div>
