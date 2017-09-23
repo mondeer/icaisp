@@ -347,34 +347,41 @@
 						<li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/grains.png); ">
 							<a href="#" class="color-1">
 								<div class="case-studies-summary">
-									<span>Grains, Food &amp; Fibre</span>
+									<h2>Grains, Food &amp; Fibre</h2>
 									<p class="textback">ICAISP connects farmers and live stock producers with supply end 
 									customers. Sourcing directly from the best agricultural production 
 									regions, we trade and distribute to regions in high demand. We charter
 									large metric tons of dry bulk and with sound global market knowledge 
 									and decades of trading experience we deliver to customers worldwide. 
-									Our key agricultural commodities include:.</p>	
+									Our key agricultural commodities include what you see in the background image:.</p>	
 								</div>
 							</a>
 						</li>
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_2.jpg); ">
-							<a href="#" class="color-2">
-								<div class="case-studies-summary">
-									<span>Illustration</span>
-									<h2>Sleeping in the Cold Blue Water</h2>
-								</div>
-							</a>
-						</li>
-						<li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/grains.png); ">
+						
+						<li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/gold.png); ">
 							<a href="#" class="color-1">
 								<div class="case-studies-summary">
-									<span>Gold &amp; Diamonds <br>Precious Metals &amp; Stones</span>
-									<p class="textback">ICAISP connects farmers and live stock producers with supply end 
-									customers. Sourcing directly from the best agricultural production 
-									regions, we trade and distribute to regions in high demand. We charter
-									large metric tons of dry bulk and with sound global market knowledge 
-									and decades of trading experience we deliver to customers worldwide. 
-									Our key agricultural commodities include:.</p>	
+									<h2>Gold &amp; Diamonds <br>Precious Metals &amp; Stones</h2>
+									<p class="textback">ICAISP experience in sourcing and physical trading of 
+										precious metals and stones. We buy and sell Gold and Diamonds in 
+										various forms. Our strong and growing network ensures prospective
+										clients have access to the highest quality of products directly from 
+										the mines and manufacturers. In precious metals and stones commodities 
+										we specialize in:</p>	
+								</div>
+							</a>
+						</li>
+
+						<li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/oil.png); ">
+							<a href="#" class="color-1">
+								<div class="case-studies-summary">
+									<h2>Gold &amp; Diamonds <br>Precious Metals &amp; Stones</h2>
+									<p class="textback">ICAISP has a strong trading history in energy commodities
+										. In addition we enable the sale, purchase and installation of refineries.
+										 We manage strategic handling, storage and freight equipment and facilities.
+										  Safety and environmental protection is of critical importance to us. In 
+										  the Energy sector, we specialize in all major oil and gas commodities as 
+										  well as renewable and sustainable energy:</p>	
 								</div>
 							</a>
 						</li>
@@ -395,82 +402,31 @@
 		</div>
 	</div>
 
-	<div id="gtco-counter" class="gtco-section">
-		<div class="gtco-container">
-
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
-					<h2>Fun Facts</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
-				</div>
-			</div>
-
-			<div class="row">
-
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-					<div class="feature-center">
-						<span class="icon">
-							<i class="ti-settings"></i>
-						</span>
-						<span class="counter js-counter" data-from="0" data-to="22070" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Creativity Fuel</span>
-
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-					<div class="feature-center">
-						<span class="icon">
-							<i class="ti-face-smile"></i>
-						</span>
-						<span class="counter js-counter" data-from="0" data-to="97" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Happy Clients</span>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-					<div class="feature-center">
-						<span class="icon">
-							<i class="ti-briefcase"></i>
-						</span>
-						<span class="counter js-counter" data-from="0" data-to="402" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Projects Done</span>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-					<div class="feature-center">
-						<span class="icon">
-							<i class="ti-time"></i>
-						</span>
-						<span class="counter js-counter" data-from="0" data-to="212023" data-speed="5000" data-refresh-interval="50">1</span>
-						<span class="counter-label">Hours Spent</span>
-
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</div>
+	
 
 	<div id="gtco-products">
 		<div class="gtco-container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
 					<h2>Products</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<p class="textback">When you would like to work with us, our way of working starts with
+					first getting to know you, your business and requirements. Because we 
+					are relationship based,straightforward and long-term..</p>
 				</div>
 			</div>
 			<div class="row animate-box">
 				<div class="owl-carousel owl-carousel-carousel">
 					<div class="item">
-						<img src="images/img_1.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+						<img src="images/gem1.jpg">
 					</div>
 					<div class="item">
-						<img src="images/img_2.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+						<img src="images/gem2.png">
 					</div>
 					<div class="item">
-						<img src="images/img_3.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+						<img src="images/wood.png">
 					</div>
 					<div class="item">
-						<img src="images/img_4.jpg" alt="Free HTML5 Bootstrap Template by GetTemplates.co">
+						<img src="images/bar.jpg">
 					</div>
 				</div>
 			</div>
