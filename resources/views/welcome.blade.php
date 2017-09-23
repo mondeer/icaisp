@@ -428,6 +428,18 @@
 					<div class="item">
 						<img src="images/bar.jpg">
 					</div>
+					<div class="item">
+						<img src="images/gem3.jpg">
+					</div>
+					<div class="item">
+						<img src="images/gem6.jpg">
+					</div>
+					<div class="item">
+						<img src="images/gold.jpg">
+					</div>
+					<div class="item">
+						<img src="images/gem5.jpg">
+					</div>
 				</div>
 			</div>
 		</div>
@@ -474,7 +486,10 @@
 				<div class="col-md-4">
 					<div class="gtco-widget">
 						<h3>About Us</h3>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore eos molestias quod sint ipsum possimus temporibus officia iste perspiciatis consectetur in fugiat repudiandae cum. Totam cupiditate nostrum ut neque ab?</p>
+						<p>ICAISP is a resent company formed for the purpose of bringing 
+							together investors with a common interest in development and
+							 creating a better life. We gather project information, investment 
+							opportunities from many different countries giving you awareness.</p>
 					</div>
 				</div>
 
@@ -485,8 +500,7 @@
 							<li><a href="#">Knowledge Base</a></li>
 							<li><a href="#">Career</a></li>
 							<li><a href="#">Press</a></li>
-							<li><a href="#">Terms of services</a></li>
-							<li><a href="#">Privacy Policy</a></li>
+							<li><a href="/about">About Us</a></li>
 						</ul>
 					</div>
 				</div>
