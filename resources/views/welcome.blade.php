@@ -193,7 +193,7 @@
 						<h3>Search for</h3>
 						<p><i class="ti-check"></i>First-hand information and investment policies in a wide range of countries
 							<br><i class="ti-check"></i>Investment opportunities in many fields (including company contracts) <br><i class="ti-check"></i>Wide Range of Products </p>
-						<p><a href="#" class="btn btn-white btn-outline">Learn More</a></p>
+						<p><a href="/about" class="btn btn-white btn-outline">Learn More</a></p>
 					</div>
 				</div>
 				<div class="feature feature-2 animate-box" data-animate-effect="fadeInUp">
