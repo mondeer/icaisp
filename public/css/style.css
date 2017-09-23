@@ -58,6 +58,16 @@ a {
   font-size: 34px;
 }
 
+
+.textback{
+  text-align: justify;
+  background: rgba(127, 127, 127, 0.67);
+  color: #fff;
+  /* border-radius: 10%; */
+  font-family: 'Courgette';
+  font-size: 12px;
+}
+
 .imond {
 	background-color: rgba(1,28,51, 0.6);
 }

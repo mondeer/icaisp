@@ -21,6 +21,7 @@
 	<meta name="twitter:card" content="" />
 
 	<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
 
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
@@ -336,23 +337,23 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
 					<h2>Our Latest Works</h2>
-					<p class="textimond"> ICAISP connects farmers and live stock producers with supply end 
-						customers. Sourcing directly from the best agricultural production 
-						regions, we trade and distribute to regions in high demand. We charter
-						 large metric tons of dry bulk and with sound global market knowledge 
-						 and decades of trading experience we deliver to customers worldwide. 
-						 Our key agricultural commodities include:.</p>
+					<p class="textimond"> </p>
 				</div>
 			</div>
 
 			<div class="row row-pb-md">
 				<div class="col-md-12">
 					<ul id="gtco-portfolio-list">
-						<li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_1.jpg); ">
+						<li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/grains.png); ">
 							<a href="#" class="color-1">
 								<div class="case-studies-summary">
-									<span>Web Design</span>
-									<h2>View the Earth from the Outer Space</h2>
+									<span>Grains, Food &amp; Fibre</span>
+									<p class="textback">ICAISP connects farmers and live stock producers with supply end 
+									customers. Sourcing directly from the best agricultural production 
+									regions, we trade and distribute to regions in high demand. We charter
+									large metric tons of dry bulk and with sound global market knowledge 
+									and decades of trading experience we deliver to customers worldwide. 
+									Our key agricultural commodities include:.</p>	
 								</div>
 							</a>
 						</li>
@@ -364,41 +365,22 @@
 								</div>
 							</a>
 						</li>
-
-
-						<li class="one-half animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_3.jpg); ">
-							<a href="#" class="color-3">
+						<li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/grains.png); ">
+							<a href="#" class="color-1">
 								<div class="case-studies-summary">
-									<span>Illustration</span>
-									<h2>Building Builded by Man</h2>
-								</div>
-							</a>
-						</li>
-						<li class="one-half animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_4.jpg); ">
-							<a href="#" class="color-4">
-								<div class="case-studies-summary">
-									<span>Web Design</span>
-									<h2>The Peaceful Place On Earth</h2>
+									<span>Gold &amp; Diamonds <br>Precious Metals &amp; Stones</span>
+									<p class="textback">ICAISP connects farmers and live stock producers with supply end 
+									customers. Sourcing directly from the best agricultural production 
+									regions, we trade and distribute to regions in high demand. We charter
+									large metric tons of dry bulk and with sound global market knowledge 
+									and decades of trading experience we deliver to customers worldwide. 
+									Our key agricultural commodities include:.</p>	
 								</div>
 							</a>
 						</li>
 
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_5.jpg); ">
-							<a href="#" class="color-5">
-								<div class="case-studies-summary">
-									<span>Web Design</span>
-									<h2>I'm Getting Married</h2>
-								</div>
-							</a>
-						</li>
-						<li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_6.jpg); ">
-							<a href="#" class="color-6">
-								<div class="case-studies-summary">
-									<span>Illustration</span>
-									<h2>Beautiful Flowers In The Air</h2>
-								</div>
-							</a>
-						</li>
+
+						
 					</ul>
 				</div>
 			</div>
