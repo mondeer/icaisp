@@ -46,6 +46,15 @@ a {
   color: #fff;
   border-radius: 5%;
   font-family: 'Tangerine';
+  font-size: 3s4px;
+}
+
+.textimond{
+  text-align: justify;
+  background: rgba(127, 127, 127, 0.67);
+  color: #fff;
+  /* border-radius: 10%; */
+  font-family: 'Satisfy';
   font-size: 34px;
 }
 

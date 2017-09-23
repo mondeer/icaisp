@@ -20,7 +20,7 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<!-- <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet"> -->
+	<link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
 
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
@@ -336,7 +336,12 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
 					<h2>Our Latest Works</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<p class="textimond"> ICAISP connects farmers and live stock producers with supply end 
+						customers. Sourcing directly from the best agricultural production 
+						regions, we trade and distribute to regions in high demand. We charter
+						 large metric tons of dry bulk and with sound global market knowledge 
+						 and decades of trading experience we deliver to customers worldwide. 
+						 Our key agricultural commodities include:.</p>
 				</div>
 			</div>
 
