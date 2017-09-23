@@ -20,7 +20,7 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<!-- <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet"> -->
+	<link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
 
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
@@ -90,7 +90,7 @@
 	        <!-- <div class="wrapper">
 	        <div class="container">
 	          <div class="row"> -->
-						<div id="bootstrap-touch-slider" class="carousel bs-slider fade  control-round indicators-line" data-ride="carousel" data-pause="hover" data-interval="5000" >
+				<div id="bootstrap-touch-slider" class="carousel bs-slider fade  control-round indicators-line" data-ride="carousel" data-pause="hover" data-interval="5000" >
 
 					<!-- Indicators -->
 					<ol class="carousel-indicators">
@@ -167,15 +167,7 @@
 							<span class="sr-only">Next</span>
 					</a>
 
-			</div> <!-- End  bootstrap-touch-slider Slider -->
-			<!-- <div class="col-md-12 wow fadeIn delay-05s">
-
-							  <div class="banner-text">
-	                <h2> <span> International China-Africa <br>Investment Service Portal.</span> </h2>
-									<h2><em>A Step Closer</em></h2>
-									<h4><em>A Limited Company Incorporated in the republic Kenya under the companies act(cap 486)</em></h4>
-	               </div>
-	            </div> -->
+			</div>
 	          </div>
 	          </div>
 	        <!-- </div>
